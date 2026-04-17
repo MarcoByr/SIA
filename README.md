@@ -7,8 +7,10 @@ Vous devrez installer les différentes librairies utilisées (si pas déjà fait
 'pip install <your library>'
 
 ## Ressources
+<p align="center">
+	<img width="211" height="71" alt="image" src="https://github.com/user-attachments/assets/154d3eeb-9452-4c87-80b9-a640e91cb702" />
+</p>
 
-<img align="center" width="211" height="71" alt="image" src="https://github.com/user-attachments/assets/154d3eeb-9452-4c87-80b9-a640e91cb702" />
 
 ### Python
 
@@ -16,9 +18,9 @@ Vous trouverez ci-après différents liens vers les librairies utilisées :
 
 Lien vers la documentation Rasterio : [Rasterio Documentation](https://rasterio.readthedocs.io/en/stable/#)
 Lien vers la documentation de Collections [Collections Documentation](https://docs.python.org/3/library/collections.html)
-
-<img align="center" width="211" height="71" alt="image" src="https://github.com/user-attachments/assets/d7192930-b54b-41ff-8e76-5c836515c236" />
-
+<p align="center">
+	<img width="211" height="91" alt="image" src="https://github.com/user-attachments/assets/d7192930-b54b-41ff-8e76-5c836515c236" />
+</p>
 ### Données satellites
 Vous trouverez ci-après différents liens vers les données des satellites Sentinel qui sont en libre accès (sous réserve de créer un compte sur l'observatoire Copernicus).
 
