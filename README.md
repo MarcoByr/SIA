@@ -8,8 +8,8 @@ Vous devrez installer les différentes librairies utilisées (si pas déjà fait
 
 ### Ressources
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png  "Python Logo")
-#### ![alt text](https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.pnghttps://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png) Python
+![alt text](https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png "Python Logo")
+#### Python
 Vous trouverez ci-après différents liens vers les librairies utilisées :
 
 - Lien vers la documentation Rasterio : [Rasterio Documentation](https://rasterio.readthedocs.io/en/stable/#)
