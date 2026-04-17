@@ -8,7 +8,9 @@ Vous devrez installer les différentes librairies utilisées (si pas déjà fait
 
 ## Ressources
 
-<img width="50" height="30" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png"> ### Python
+<img width="211" height="71" alt="image" src="https://github.com/user-attachments/assets/154d3eeb-9452-4c87-80b9-a640e91cb702" />
+
+### Python
 
 Vous trouverez ci-après différents liens vers les librairies utilisées :
 
