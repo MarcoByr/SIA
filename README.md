@@ -1,21 +1,22 @@
 # SIA : Satellite Imaging Analysis
-### Description
+## Description
 Environnement d'apprentissage des outils de traitements d'images satellites et de familiarisation avec les outils git.
 
-### Pour les non-utilisateurs/rices de Jupyter Lab 
+## Pour les non-utilisateurs/rices de Jupyter Lab 
 Vous devrez installer les différentes librairies utilisées (si pas déjà fait) à l'aide de pip ou mamba:
 'pip install <your library>'
 
-### Ressources
+## Ressources
 
-![alt_text]([https://rasterio.readthedocs.io/en/stable/#](https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png))
-#### Python
+<img width="150" height="150" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png">
+
+### Python
 Vous trouverez ci-après différents liens vers les librairies utilisées :
 
 Lien vers la documentation Rasterio : [Rasterio Documentation](https://rasterio.readthedocs.io/en/stable/#)
 Lien vers la documentation de Collections [Collections Documentation](https://docs.python.org/3/library/collections.html)
 
-#### Données satellites
+### Données satellites
 Vous trouverez ci-après différents liens vers les données des satellites Sentinel qui sont en libre accès (sous réserve de créer un compte sur l'observatoire Copernicus).
 
 Liens vers le moteur de recherche Copernicus : [copernicus Browser](https://browser.dataspace.copernicus.eu/)
