@@ -7,10 +7,8 @@ Vous devrez installer les différentes librairies utilisées (si pas déjà fait
 'pip install <your library>'
 
 ### Ressources
-<h1> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png"
-  width="128"
-  height="128"
-  style="float:left;">
+
+<img align="left" width="80" height="80" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="Python Logo">
 #### Python
 Vous trouverez ci-après différents liens vers les librairies utilisées :
 
