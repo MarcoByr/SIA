@@ -25,7 +25,7 @@ Lien vers la documentation de Collections [Collections Documentation](https://do
 ### Données satellites
 Vous trouverez ci-après différents liens vers les données des satellites Sentinel qui sont en libre accès (sous réserve de créer un compte sur l'observatoire Copernicus).
 
-Liens vers le moteur de recherche Copernicus : [copernicus Browser](https://browser.dataspace.copernicus.eu/)
+Liens vers le moteur de recherche Copernicus : [Copernicus Browser](https://browser.dataspace.copernicus.eu/)
 
 Worklow pour l'export de données :
 - Déilimiter sa zone géographique d'intérêt
