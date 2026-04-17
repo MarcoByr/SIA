@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SIA : Satellite Imaging Analysis
 ### Description
 Environnement d'apprentissage des outils de traitements d'images satellites et de familiarisation avec les outils git.
@@ -26,3 +27,5 @@ Worklow pour l'export de données :
 	- Choisir le format/resolution/
 	- Choisir les bandes souhaitées (Rouge, Vert, Bleu, infrarouge, autres...)
 	- Choisir le système de coordonnées pour le géoréférencement que l'on calculera ultérieurement
+=======
+>>>>>>> 07f16db15dff85389de3c02359545db7d8b6bf40
