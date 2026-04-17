@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SIA : Satellite Imaging Analysis
 ### Description
 Environnement d'apprentissage des outils de traitements d'images satellites et de familiarisation avec les outils git.
@@ -8,6 +7,8 @@ Vous devrez installer les différentes librairies utilisées (si pas déjà fait
 'pip install <your library>'
 
 ### Ressources
+
+![alt_text]([https://rasterio.readthedocs.io/en/stable/#](https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png))
 #### Python
 Vous trouverez ci-après différents liens vers les librairies utilisées :
 
@@ -27,5 +28,3 @@ Worklow pour l'export de données :
 	- Choisir le format/resolution/
 	- Choisir les bandes souhaitées (Rouge, Vert, Bleu, infrarouge, autres...)
 	- Choisir le système de coordonnées pour le géoréférencement que l'on calculera ultérieurement
-=======
->>>>>>> 07f16db15dff85389de3c02359545db7d8b6bf40
