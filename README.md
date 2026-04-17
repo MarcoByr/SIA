@@ -7,8 +7,7 @@ Vous devrez installer les différentes librairies utilisées (si pas déjà fait
 'pip install <your library>'
 
 ### Ressources
-#### ![alt text](https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png "Python Logo")
-#### Python
+#### ![alt text](https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png "Python Logo") Python
 Vous trouverez ci-après différents liens vers les librairies utilisées :
 
 - Lien vers la documentation Rasterio : [Rasterio Documentation](https://rasterio.readthedocs.io/en/stable/#)
